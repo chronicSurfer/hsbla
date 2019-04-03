@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./photos/sand.jpg);
+}
+
+nav {
+    height: 10vh;
+}
+
+/* .footer-style {
+    
+} */
+
+.jumbotron-style {
+    margin-bottom: 0px;
+    height: 20vh;
+    width: 100vw;
+    background-color: #388FE2;
+}
+
+/* .carousel-container {
+    border: 1px solid black;
+} */
+
+.carousel-image {
+    height: 60vh;
+    margin-top: 40px;
+}
+
+.navbar {
+    background-color: #388FE2 !important;
+}
+
+.navbar .navbar-brand {
+    color: #F1F1F1;
+}
+
+.navbar .navbar-brand:hover {
+    color: #D6464F;
+}
